@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neeta Ben Vaghavala - Hindu God Clothes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>નીતા બેન વાઘાવાળા</h1>
+    <p>સ્વામિનારાયણ ભગવાન માટે સુંદર વાઘા</p>
+
+    <h2>અમારા વાઘા</h2>
+    <img src="vagha1.jpg" alt="Hindu God Clothes">
+    <img src="vagha2.jpg" alt="Beautiful Vagha">
+
+    <p>અમે હસ્તકલા વાઘા બનાવીએ છીએ. વધુ માહિતી માટે સંપર્ક કરો.</p>
+
+    <h3>સંપર્ક કરો:</h3>
+    <p>📞 +91 7405777909</p>
+    <p>📩 nitachavda412@gmail.com</p>
+</body>
+</html>
+
